@@ -1,4 +1,4 @@
-# Simple Take-6-Card-Game
+# Simple Take 6 Card Game
 
 Introduction : Final project of computer programming course.
 
